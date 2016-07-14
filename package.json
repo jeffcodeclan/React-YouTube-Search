@@ -1,7 +1,7 @@
 {
-  "name": "React Youtube Search",
+  "name": "ReactSearch",
   "version": "1.0.0",
-  "description": "React Youtube Search",
+  "description": "ReactSearch",
   "main": "index.js",
   "repository": "",
   "scripts": {
